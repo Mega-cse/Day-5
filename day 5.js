@@ -59,7 +59,7 @@ let resumeDatas= [{
             "Company":"Shiash infotech Solution PVT LTD",
             "Year":"oct 2022-dec 2022"
         }
-},];
+}];
 //for loop
 for(var i = 0; i < resumeDatas.length; i++) {
     var obj = resumeDatas[i];
